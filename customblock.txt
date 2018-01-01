@@ -1,0 +1,11 @@
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+54.230.199.226        gs2.ww.prod.dl.playstation.net
+
+# GOOD IPS
+#PSN DOWNLOAD FROM LONDON (LEVEL 3)(25MS+) = 8.253.132.121
+# BAD IPS
+# PSN DOWNLOAD FROM DETROIT (100MS+) = 8.254.255.248
+# LONDON TO NEWARK (SLOW CRAP) (90MS+) = 8.251.65.254
+# NEWYORK (100MS+) = 8.250.113.254
